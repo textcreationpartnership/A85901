@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Generall Masseys Bartholomew-Fairings for Collonell Poyntz, and the London reformadoes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85901</idno>
+            <idno type="STC">Wing G502</idno>
+            <idno type="STC">Thomason E404_15</idno>
+            <idno type="STC">ESTC R201851</idno>
+            <idno type="EEBO-CITATION">99862340</idno>
+            <idno type="PROQUEST">99862340</idno>
+            <idno type="VID">114497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114497)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Generall Masseys Bartholomew-Fairings for Collonell Poyntz, and the London reformadoes.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Aug: 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term>Poyntz, Sydenham --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114497:1" rendition="simple:additions"/>
+            <p> GENERALL MASSEYS <hi>Bartholomew-Fairings</hi> FOR <hi>COLLONELL</hi> POYNTZ, AND THE <hi>LONDON REFORMADOES.</hi>
+            </p>
+            <figure>
+               <figDesc>man, in Cavalier-style clothes, holding a sword and lifting something from a table</figDesc>
+            </figure>
+            <p>Printed in the Yeare, 1647.</p>
+            <pb facs="tcp:114497:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114497:2"/>
+            <head>GENERALL MASSEYES <hi>Bartholomew-Fairings</hi> FOR Collonell <hi>POYNTZ,</hi> AND THE <hi>LONDON</hi> Reformadoes.</head>
+            <lg>
+               <l>TWas then, when as the name of <hi>Maſſeys</hi> Force,</l>
+               <l>Call'd all the idle Reformad's to Horſe.</l>
+               <l>And drew the Bacon-eating Cavaliers,</l>
+               <l>(By the convenient Handle of their eares)</l>
+               <l>To leave their pot and pipe behind, and come:</l>
+               <l>(Their Calve-skin Breeches turn'd into a Drumme)</l>
+               <l>T'out-ſtinke our ſtreets at <hi>London,</hi> when as I</l>
+               <l>(Being guilty found of too much honeſty)</l>
+               <l>By two Malignants was, <hi>Conſcience</hi> and <hi>Reaſon,</hi>
+               </l>
+               <l>Betray'd t'an act of Vertue, then call'd Treaſon:</l>
+               <l>His brother <hi>Poyntz</hi> was ſtrait inform'd, a youth,</l>
+               <l>With goodly goggel eyes and large wry mouth,</l>
+               <pb n="2" facs="tcp:114497:3"/>
+               <l> Is ſent for me,—He knocks at Doore:</l>
+               <l>
+                  <hi>Who's there,</hi>
+               </l>
+               <l>
+                  <hi>A Friend:</hi>
+               </l>
+               <l>
+                  <hi>Duns I defye you all. Come neere!</hi>
+               </l>
+               <l>The word ſcarce ſpoke, there comes one ruſhing in,</l>
+               <l>With a jolly red Noſe, his Buffe was o'th' ſame skin:</l>
+               <l>What could one think this was? a monſtrous creature</l>
+               <l>buried in pearles alive, whoſe Viſage Nature</l>
+               <l>Broach'd i'th' wrong place; Faith, I took't for a Man</l>
+               <l>(Boldly I muſt confeſſe) and thus began:</l>
+               <l>
+                  <hi>What wouldſt thou Friend what brought thee to this place</hi>
+               </l>
+               <l>He anſwers me from th' other ſide of his face;</l>
+               <l>
+                  <hi>You are a Tub-man Sir, and Rebel wee</hi>
+               </l>
+               <l>
+                  <hi>Are ſent to fetch you to a new Armie.</hi>
+               </l>
+               <l>
+                  <hi>Good words my Friend if you or I muſt bee</hi>
+               </l>
+               <l>
+                  <hi>A Rebel, I ſome hope of Comfort ſee.</hi>
+               </l>
+               <l>
+                  <hi>Your Mouth doth juſt i'th' hanging poſture ſtand:</hi>
+               </l>
+               <l>With that his Brows fierce briſtles ſtartled, and</l>
+               <l>
+                  <hi>I yield up Sir, Ile goe along with you:</hi>
+               </l>
+               <l>
+                  <hi>Walke on;</hi>
+               </l>
+               <l>
+                  <hi>Nay leave me in the Chamber though,</hi>
+               </l>
+               <l>
+                  <hi>Good Lord, you are ſo complemental,</hi>
+               </l>
+               <l>Downe,</l>
+               <l>We go and both matcht up into the Towne:</l>
+               <l>
+                  <hi>And which way now?</hi>
+               </l>
+               <l>
+                  <hi>Nay good Sir keepe the Wall</hi>
+               </l>
+               <l>
+                  <hi>Excuſe me Sir;</hi>
+               </l>
+               <l>
+                  <hi>Nay as I live you ſhall</hi>
+               </l>
+               <l>
+                  <hi>Why 'tis the windy ſide, and credit mee</hi>
+               </l>
+               <l>
+                  <hi>Your ſtrong perfumes make my head ake.</hi>
+               </l>
+               <l>Thus wee</l>
+               <l>Marcht to the Round-Hall; wher being ſtraight let in</l>
+               <pb n="3" facs="tcp:114497:3"/>
+               <l> Such company, ſuch ſmoake, ſuch ſtincke, ſuch dinne.</l>
+               <l>Such ſwearing did ſalute mee, that I fell</l>
+               <l>On wondring how wee came alive to Hell:</l>
+               <l>For this could be no leſſe; on every ſide</l>
+               <l>Such ſawcer-eyes appear'd ſuch horrid, wide,</l>
+               <l>And gaping mouthes, ſuch teeths, ſuch flounſing hair,</l>
+               <l>Which you might ſee both in the Uan and Rear,</l>
+               <l>Beſides each horne-pipe voyce ſeem'd to betray</l>
+               <l>Where good S. <hi>Dunſtans</hi> Tongs had ſpoyld the way:</l>
+               <l>Happy the men muſt ſight with theſe, thought I,</l>
+               <l>For they ſhall nothing but their backs eſpie.</l>
+               <l>Six volley of Curſes 'gainſt Independents, here,</l>
+               <l>Went off for entertainment, and a Jeere,</l>
+               <l>Or two were paſt for Complement; but I,</l>
+               <l>Like a brave<g ref="char:punc">▪</g>ſuffering Man, paſs'd ſilent by,</l>
+               <l>They ſpent themſelves about me: One ſteps out,</l>
+               <l>And cryes, have at the Sectaries; all the rout,</l>
+               <l>Clap hands to th' Basket-hilt, and <hi>Draw,</hi> they cry,</l>
+               <l>
+                  <hi>Oh that we had the Independant Army by,</hi>
+               </l>
+               <l>
+                  <hi>Out you damn'd Garlick-earing Rogues, D'you thinke</hi>
+               </l>
+               <l>
+                  <hi>You don't already vent ſufficient ſtinke.</hi>
+               </l>
+               <l>
+                  <hi>But you muſt call for thoſe whoſe very Name</hi>
+               </l>
+               <l>
+                  <hi>Will dye your Scarffes and Braeches of the ſame,</hi>
+               </l>
+               <l>Three tedious houres amongſt theſe hell hounds we</l>
+               <l>Bravely endur'd; when comming in we ſee</l>
+               <l>A Scarlet Reformado who ſcarce yet did know</l>
+               <l>Whether he againſt the Army fought or no;</l>
+               <l>Who had bin Scholler once (t' our ſhame be't ſpoken)</l>
+               <l>Since a young Marchant, and ſince that time broken</l>
+               <l>Then damn'd to th' ſervice of the Rout did: Hee</l>
+               <l>Proffer his utmoſt paines to ſet us free.</l>
+               <l>I, though it vex'd me, any of them ſhould</l>
+               <l>Do ought which even Complement might call good</l>
+               <pb n="4" facs="tcp:114497:4"/>
+               <l> Yet had not ſo much valour to deny</l>
+               <l>Quarter, though from a want wit, willingly.</l>
+               <l>Accepting this their offer; thinking then,</l>
+               <l>The greateſt good could befall innocent men,</l>
+               <l>Was to bee ſoone accus'd: With that away</l>
+               <l>We went to th' <hi>Beare</hi> where a great <hi>Elder</hi> lay;</l>
+               <l>Where by the Captaine wee were brought before</l>
+               <l>A veryer Beaſt then that which hung at doore,</l>
+               <l>A ſtrange fat unlickt, mall-fac'd fellow, who</l>
+               <l>Was <hi>Maſſey</hi> all ore, head, Bunch, back, belly too:</l>
+               <l>He hop'd to be an Alderman, but into's skin</l>
+               <l>Beſide the tallow, large guts crowded in.</l>
+               <l>He having tun'd his pipes with ſix or ſeven</l>
+               <l>Good ratling Oathes, began to ſpeak:</l>
+               <l>
+                  <hi>Fore Heaven</hi>
+               </l>
+               <l>
+                  <hi>Gentlemen this is ſtrange, By—it is:</hi>
+               </l>
+               <l>
+                  <hi>And if it were but my caſe as 'tis his,</hi>
+               </l>
+               <l>(Meaning the Collonels) <hi>I'de hang you all:</hi>
+               </l>
+               <l>
+                  <hi>For looke you, Sir, if any Body ſhall</hi>
+               </l>
+               <l>
+                  <hi>Abuſe the Reformad's as ſome of you</hi>
+               </l>
+               <l>
+                  <hi>May chance, and have witneſſe of it too,</hi>
+               </l>
+               <l>
+                  <hi>Judge me, confound me, if you had but don't,</hi>
+               </l>
+               <l>
+                  <hi>The beſt amongſt you ſhould heare further on't.</hi>
+               </l>
+               <l>But oh! theſe wrongs ſat heavy on them when,</l>
+               <l>They ſhould oppoſ'd the Army, their Ills then</l>
+               <l>Stuck faſt and ſtrongly to them on all parts,</l>
+               <l>And ſent a gaſtly trembling through their hearts;</l>
+               <l>Their owne Sp'rits among them did poſſeſſe</l>
+               <l>Their Coward hearts with thoughts of guiltineſſe,</l>
+               <l>And feare of Vengeance: And each good mans prayer</l>
+               <l>Whoſe blood they ſought; flew ſtrong againſt the<g ref="char:cmbAbbrStroke">̄</g> ther</l>
+               <pb n="5" facs="tcp:114497:4"/>
+               <l> And <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Collonel whom a more ſordid Fate</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſo ſtrong and fierce a hate,</l>
+               <l>My venerable <hi>Poyntz</hi> to whom wee owe</l>
+               <l>A Jury tryall, thou yet ſhalt grow</l>
+               <l>More famous now (if once my Verſes can,</l>
+               <l>Or thoſe my Friends can make) thou ſhalt b'a Man</l>
+               <l>Greater then Fate hath made thee (if Ballets bee</l>
+               <l>But capable of Immortalitie)</l>
+               <l>Children and Market-maids in after-times</l>
+               <l>Shall ſee thee dreft in moſt vile Tunes and Rimes.</l>
+               <l>And Ale-houſes as yet not built, ſhall ſee</l>
+               <l>Thy Picture paſted on their Mantle-tree:</l>
+               <l>Nere looke to dye, thou ſhalt be laught at ſtill,</l>
+               <l>Longer then <hi>Naſhes Harvy,</hi> or <hi>Triplets</hi> Gill.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
